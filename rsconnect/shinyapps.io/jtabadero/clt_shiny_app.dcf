@@ -1,0 +1,13 @@
+name: clt_shiny_app
+title: clt_shiny_app
+username:
+account: jtabadero
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 225117
+bundleId: 1026369
+url: https://jtabadero.shinyapps.io/clt_shiny_app/
+when: 1507963396.80893
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: pitch.html|pitch.Rmd|README.md
